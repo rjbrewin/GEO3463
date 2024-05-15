@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 openpyxl
-math
 glob
 netCDF4
